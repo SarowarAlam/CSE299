@@ -1,5 +1,3 @@
-
-```markdown
 # Isolation Centre Management System (ICMS)
 
 ## Project Overview
